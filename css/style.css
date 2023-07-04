@@ -39,7 +39,7 @@ img {
 
 #header p {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
+    font-size: 50px;
 	font-optical-sizing: auto;
     color: #fff;
 }
@@ -49,8 +49,8 @@ img {
 }
 
 #logo img {
-	width: 200px;
-	height: 200px;
+	width: 250px;
+	height: 250px;
 	align-items: center;
 }
 
@@ -71,19 +71,27 @@ img {
 }
 
 #contents img {
-	width: 100px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 	image-rendering: initial;
 }
 
 .image-column {
-	font-size: 50px;
+	font-size: 70px;
+	color:darkgray;
 	width: auto;
 	height: auto;
 }
 
 .menu-item {
-	font-size: 25px;
+	font-size: 40px;
+	width: auto;
+	height: auto;
+}
+
+.details-item {
+	font-size: 20px;
+	color: lightslategray;
 	width: auto;
 	height: auto;
 }
